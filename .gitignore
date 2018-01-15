@@ -1,0 +1,11 @@
+
+PriaidDiagnosisClient.py
+PriaidDiagnosisClientDemo.py
+Diagnosis.py
+ApmedicImplementation.py
+Keyword generation.py
+Parser.py
+Tokenize.py
+venv*
+*.pyc
+.idea*

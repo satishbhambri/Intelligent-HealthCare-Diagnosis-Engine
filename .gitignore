@@ -4,7 +4,6 @@ PriaidDiagnosisClientDemo.py
 Diagnosis.py
 ApmedicImplementation.py
 Keyword generation.py
-Parser.py
 venv*
 *.pyc
 .idea*

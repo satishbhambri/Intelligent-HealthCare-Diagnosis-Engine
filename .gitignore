@@ -3,7 +3,6 @@ PriaidDiagnosisClient.py
 PriaidDiagnosisClientDemo.py
 Diagnosis.py
 ApmedicImplementation.py
-Keyword generation.py
 venv*
 *.pyc
 .idea*

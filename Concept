@@ -1,0 +1,2 @@
+The patients can speak to the application which in turn converts it into text and does NLP analysis, and spectral clustering extracting out the keywords using which it diagnosis the disease using an API and generates a report. 
+This report is sent to the patient along with the wait notification for expert advice and doctors who volunteer for social cause provide this expert advice.

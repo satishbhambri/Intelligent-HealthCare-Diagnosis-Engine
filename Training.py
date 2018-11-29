@@ -9,6 +9,7 @@ import os
 from utils import tokenizer as Tokenizer
 from utils import tokenFixer as TokenFixer
 from utils import nlp_parser as NLPParser
+from utils import *
 
 def train_tf_idf(docs):
     dictionary = corpora.Dictionary(docs)

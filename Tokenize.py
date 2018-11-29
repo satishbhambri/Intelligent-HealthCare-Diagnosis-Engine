@@ -9,19 +9,7 @@ import sys
 # import gensim
 # from gensim.models import Word2Vec
 
-def tokenize_data():
-    path = "../data/author/authors_topic/"
-    file_names = os.listdir(path)
-    tokens = []
-    for file_name in file_names:
-        word_list = []
 
-        os.system(
-            "java -cp /home/yatharth/ASU/sml/project/2014/POS/stanford-postagger-full-2015-04-20/stanford-postagger.jar edu.stanford.nlp.process.PTBTokenizer " + path + "/" + file_name + ">" + "../data/author/author_topic_token/" + file_name + "_token.txt")
-
-    # break
-    print
-    tokens
 
 
 # tokenize_data()
